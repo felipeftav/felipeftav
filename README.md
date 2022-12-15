@@ -1,8 +1,8 @@
 - 👋 Olá, Eu sou o @felipeftav
 - 👀 No momento estou interessado no desenvolvimento front-end ...
 - 🌱 I’m currently learning ... Javascript
-<!--- - 📫 How to reach me ... --->
 - ⚡ Fun fact: ... Eu sou editor de vídeo freelancer
+<!--- - 📫 How to reach me ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 
