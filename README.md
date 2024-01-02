@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou o @felipeftav
-- 👀 No momento estou interessado no desenvolvimento front-end ...
-- 🌱 I’m currently learning ... Javascript
-- ⚡ Fun fact: ... Eu sou editor de vídeo freelancer
+- 👀 Atualmente estudando Análise de dados em Puthon com Pandas e PowerBi ...
+- 🌱 I’m currently learning ... Python
+- ⚡ Fun fact: ... I'm video editor freelancer
 <!--- - 📫 How to reach me ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
