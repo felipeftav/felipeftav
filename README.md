@@ -1,15 +1,15 @@
 <h1 align="center">Olá 👋, Eu sou o Felipe Tavares</h1>
 <h3 align="center">Apaixonado por Ciência e Análise de Dados no mundo digital</h3>
 
-- 🌱 I’m currently learning **Python & Pandas**
+- 🌱 Estou atualmente aprendendo **Python & Pandas**
 
-- 👨‍💻 All of my projects are available at [https://github.com/felipeftav](https://github.com/felipeftav)
+- 👨‍💻 Meus projetos estão disponíveis em: [https://github.com/felipeftav](https://github.com/felipeftav)
 
-- 💬Me pergunte sobre **Python & Webscraping**
+- 💬 Me pergunte sobre **Python & Webscraping**
 
-- 📫 How to reach me **ferreirafelipe1100@gmail.com**
+- 📫 Entre em contato comigo em: **ferreirafelipe1100@gmail.com**
 
-- ⚡ Fun fact **Formado em Gestão de Negócios e Estudante de Ciência de Dados**
+- ⚡ Curiosidade: **Formado em Gestão de Negócios e Estudante de Ciência de Dados**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
