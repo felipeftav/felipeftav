@@ -11,7 +11,6 @@
 
 - ⚡ Curiosidade: **Formado em Gestão de Negócios e Estudante de Ciência de Dados**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
